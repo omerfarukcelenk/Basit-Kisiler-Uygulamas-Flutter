@@ -1,17 +1,13 @@
-# kisiler_uygulamasi
+# Basit Kisiler Uygulaması | Flutter 
 
-A new Flutter project.
+![kisiler_uygulama_1](https://user-images.githubusercontent.com/71720425/125507961-5488c49b-eb75-418c-b46a-7b3611fb5d19.png)
 
-## Getting Started
+<hr>
 
-This project is a starting point for a Flutter application.
+![kisiler_uygulama_2](https://user-images.githubusercontent.com/71720425/125507968-10800a1a-89b1-44d0-aeaa-6389e57be905.png)
 
-A few resources to get you started if this is your first Flutter project:
+<hr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![kisiler_uygulama_3](https://user-images.githubusercontent.com/71720425/125507973-69e8e374-1753-4260-a4eb-f8d99f7d7552.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Basit-Kisiler-Uygulamas-Flutter
+
